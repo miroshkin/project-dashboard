@@ -1,0 +1,15 @@
+* {
+
+}
+
+/*Tag selectors*/
+h1{
+  background-color: lightblue;
+  text-align: center;
+  border-radius: 10px;
+  color: gray;
+}
+
+p {
+
+}
