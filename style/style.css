@@ -15,6 +15,10 @@ p {
 
 }
 
+img {
+  width:100%;
+}
+
 @font-face {
   font-family: 'Roboto';
    src: url('Roboto-ThinItalic-webfont.eot');
