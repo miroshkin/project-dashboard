@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: monospace;
+  font-family: 'Lato', sans-serif;
 }
 
 /*Tag selectors*/
@@ -16,9 +16,18 @@ p {
 
 }
 
+a {
+  margin-bottom: 10px;
+  margin-top: 10px;
+
+}
+
 h1, h2, h3, p {
   width: 50%;
   margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+
 }
 
 img {
