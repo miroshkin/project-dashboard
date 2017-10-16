@@ -13,33 +13,34 @@ h1{
 }
 
 p {
-
 }
 
 a {
   margin-bottom: 10px;
   margin-top: 10px;
-
 }
 
-
-
 h1, h2, h3, p {
-
   margin-bottom: 10px;
   margin-top: 10px;
-
 }
 
 header, footer {
-  background-color: red;
+  background-color: lightblue;
   color: white;
   text-align: center;
+}
 
+header {
+  margin-top: -10px;
+}
+
+footer {
+  margin-bottom: -10px;
 }
 
 img {
-  width: 50%;
+  width: 100%;
   margin: auto;
   display: block;
   opacity: 0.7;
