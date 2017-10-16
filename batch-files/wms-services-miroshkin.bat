@@ -1,1 +1,1 @@
-START c:\tfs\v1.0\Wms\Release\Current\Services\Services.sln
+START C:\tfs\v1.0\Wms\Dev\Miroshkin\Services\Services.sln
