@@ -54,6 +54,10 @@ img {
   margin: auto;
 }
 
+.wrap {
+    min-height: calc(100vh - 18px);
+}
+
 @font-face {
   font-family: 'Roboto';
    src: url('Roboto-ThinItalic-webfont.eot');
