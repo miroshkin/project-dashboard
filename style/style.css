@@ -25,6 +25,11 @@ h1, h2, h3, p {
   margin-top: 10px;
 }
 
+h1 {
+  color: white;
+  font-size: 2em;
+}
+
 header, footer {
   background-color: lightblue;
   color: white;
@@ -47,6 +52,18 @@ img {
   border: solid grey 1px;
   border-radius: 5px;
   box-shadow: 8px 8px 6px #888888;
+}
+
+
+.main-header a {
+  color: white;
+}
+
+.name
+.main-nav
+.main-nav li {
+  display: inline;
+
 }
 
 .container {
