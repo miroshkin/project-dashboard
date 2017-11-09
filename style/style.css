@@ -56,14 +56,13 @@ img {
 
 
 .main-header a {
-  color: white;
+  display: inliine-block;
 }
 
-.name
-.main-nav
+.name,
+.main-nav,
 .main-nav li {
-  display: inline;
-
+  display: inline-block;
 }
 
 .container {
