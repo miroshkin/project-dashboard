@@ -3,13 +3,16 @@
   font-family: 'Lato', sans-serif;
 }
 
+body {
+  top: 61px;
+}
+
 /*Tag selectors*/
 h1{
   background-color: lightblue;
   text-align: center;
   border-radius: 10px;
   color: gray;
-
 }
 
 p {
@@ -34,6 +37,9 @@ header, footer {
   background-color: lightblue;
   color: white;
   text-align: center;
+  position:fixed;
+  width: 100%;
+  z-index: 10000;
 }
 
 header {
