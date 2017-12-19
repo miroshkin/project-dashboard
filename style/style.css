@@ -15,6 +15,16 @@ h1{
   color: gray;
 }
 
+nav {
+  & ul {
+    display: flex;
+    width: 100%;
+    & li {
+      flex: 1 1 100%;
+    }
+  }
+}
+
 p {
 }
 
@@ -61,19 +71,28 @@ img {
 }
 
 
+
 .main-header a {
   display: inliine-block;
 }
 
-.name,
+.site-name,
 .main-nav,
 .main-nav li {
   display: inline-block;
 }
 
-.container {
+
+.nav-menu-container {
+  display: flex;
+  flex: space-between;
+  width: 50%;
+}
+
+.content-container {
   width: 50%;
   margin: auto;
+  padding-top: 60px;
 }
 
 .wrap {
